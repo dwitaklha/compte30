@@ -21,7 +21,7 @@
       "facebook_native_id" : "191728746181481_193164939371195",
       "facebook_native_banner_id" : "IMG_16_9_APP_INSTALL#"
     },
-    "mode_ads_banner" : "admob",
+    "mode_ads_banner" : "0",
     "mode_ads_interstitial" : "0",
     "mode_ads_interstitial_mix" : "0",
     "mode_ads_native_enabled" : true,
@@ -47,7 +47,7 @@
   "posts" : [
     {
       "id" : 0,
-      "imageURL" : "https://dwitaklha.github.io/compte30/1024.png,
+      "imageURL" : "https://dwitaklha.github.io/compte30/1024.png",
       "state" : "free",
       "title" : "",
       "description" : "",
@@ -55,26 +55,34 @@
     },
     {
       "id" : 1,
-      "imageURL" : "https://dwitaklha.github.io/compte30/S2.png",
+      "imageURL" : "https://dwitaklha.github.io/compte30/S1.png",
       "state" : "free",
-      "title" : "Pico Park",
-      "description" : "Pico Park",
+      "title" : "",
+      "description" : "",
       "written" : ""
     },
     {
       "id" : 2,
       "imageURL" : "https://dwitaklha.github.io/compte30/S2.png",
       "state" : "free",
-      "title" : "Pico Park",
-      "description" : "Pico Park",
+      "title" : "",
+      "description" : "",
       "written" : ""
     },
     {
       "id" : 3,
-      "imageURL" : "https://dwitaklha.github.io/compte30/1024.png",
+      "imageURL" : "https://dwitaklha.github.io/compte30/S1.png",
       "state" : "free",
-      "title" : "Pico Park",
-      "description" : "Pico Park",
+      "title" : "",
+      "description" : "",
+      "written" : ""
+    },
+    {
+      "id" : 4,
+      "imageURL" : "https://dwitaklha.github.io/compte30/1024.png",
+      "state" : "vip",
+      "title" : "",
+      "description" : "",
       "written" : ""
     }
   ]
