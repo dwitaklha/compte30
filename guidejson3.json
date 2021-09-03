@@ -47,7 +47,7 @@
   "posts" : [
     {
       "id" : 0,
-      "imageURL" : "https://dwitaklha.github.io/compte30/guide1.png",
+      "imageURL" : "https://dwitaklha.github.io/compte30/1024.png,
       "state" : "free",
       "title" : "Pico Park",
       "description" : "Pico Park",
@@ -55,7 +55,7 @@
     },
     {
       "id" : 1,
-      "imageURL" : "https://dwitaklha.github.io/compte30/guide2.png",
+      "imageURL" : "https://dwitaklha.github.io/compte30/S2.png",
       "state" : "free",
       "title" : "Pico Park",
       "description" : "Pico Park",
@@ -63,7 +63,7 @@
     },
     {
       "id" : 2,
-      "imageURL" : "https://dwitaklha.github.io/compte30/guide3.png",
+      "imageURL" : "https://dwitaklha.github.io/compte30/S2.png",
       "state" : "free",
       "title" : "Pico Park",
       "description" : "Pico Park",
@@ -71,16 +71,8 @@
     },
     {
       "id" : 3,
-      "imageURL" : "https://dwitaklha.github.io/compte30/guide4.png",
-      "state" : "free",
-      "title" : "Pico Park",
-      "description" : "Pico Park",
-      "written" : "Pico Park"
-    },
-    {
-      "id" : 4,
       "imageURL" : "https://dwitaklha.github.io/compte30/1024.png",
-      "state" : "vip",
+      "state" : "free",
       "title" : "Pico Park",
       "description" : "Pico Park",
       "written" : "Pico Park"
