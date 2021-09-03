@@ -57,7 +57,7 @@
       "id" : 1,
       "imageURL" : "https://dwitaklha.github.io/compte30/guide2.png",
       "state" : "free",
-      "title" : "Test title 1",
+      "title" : "",
       "description" : "",
       "written" : ""
     },
@@ -65,7 +65,7 @@
       "id" : 2,
       "imageURL" : "https://dwitaklha.github.io/compte30/guide3.png",
       "state" : "free",
-      "title" : "Test title 2",
+      "title" : "",
       "description" : "",
       "written" : ""
     },
@@ -73,7 +73,7 @@
       "id" : 3,
       "imageURL" : "https://dwitaklha.github.io/compte30/guide4.png",
       "state" : "free",
-      "title" : "Test title 3",
+      "title" : "",
       "description" : "",
       "written" : ""
     }
