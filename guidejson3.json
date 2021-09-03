@@ -59,7 +59,7 @@
       "state" : "free",
       "title" : "Pico Park",
       "description" : "Pico Park",
-      "written" : "Pico Park"
+      "written" : ""
     },
     {
       "id" : 2,
@@ -67,7 +67,7 @@
       "state" : "free",
       "title" : "Pico Park",
       "description" : "Pico Park",
-      "written" : "Pico Park"
+      "written" : ""
     },
     {
       "id" : 3,
@@ -75,7 +75,7 @@
       "state" : "free",
       "title" : "Pico Park",
       "description" : "Pico Park",
-      "written" : "Pico Park"
+      "written" : ""
     }
   ]
 }
