@@ -45,77 +45,93 @@
     }
   },
   "posts" : [
-    {
+      {
       "id" : 0,
-      "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ndoOlwykGm4me3oEsTw3FqXGWd8Zm6_OOw&usqp=CAU",
+      "imageURL" : "https://dwitaklha.github.io/compte30/plank.jpg",
       "state" : "free",
-      "title" : "dadamou",
+      "title" : "plank",
       "description" : "",
-      "written" : "Test written 0 <br>My written"
+      "written" : ""
     },
     {
       "id" : 1,
-      "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ndoOlwykGm4me3oEsTw3FqXGWd8Zm6_OOw&usqp=CAU",
+      "imageURL" : "https://dwitaklha.github.io/compte30/plank.jpg",
       "state" : "free",
-      "title" : "Test title 1",
+      "title" : "jumping squat",
       "description" : "",
-      "written" : "Test written 1"
+      "written" : ""
     },
     {
       "id" : 2,
-      "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ndoOlwykGm4me3oEsTw3FqXGWd8Zm6_OOw&usqp=CAU",
+      "imageURL" : "https://dwitaklha.github.io/compte30/maxresdefault.jpg",
       "state" : "free",
-      "title" : "Test title 2",
+      "title" : "dumbbell goblet squat",
       "description" : "",
-      "written" : "Test written 2"
+      "written" : ""
     },
     {
       "id" : 3,
-      "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ndoOlwykGm4me3oEsTw3FqXGWd8Zm6_OOw&usqp=CAU",
+      "imageURL" : "https://dwitaklha.github.io/compte30/maxresdefault.jpg",
       "state" : "free",
-      "title" : "Test title 3",
+      "title" : "dumbbell lunges",
       "description" : "",
-      "written" : "Test written 3"
+      "written" : ""
     },
     {
       "id" : 4,
-      "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ndoOlwykGm4me3oEsTw3FqXGWd8Zm6_OOw&usqp=CAU",
+      "imageURL" : "https://dwitaklha.github.io/compte30/maxresdefault.jpg",
       "state" : "free",
-      "title" : "Test title 4",
+      "title" : "barbell glute bridge",
       "description" : "",
-      "written" : "Test written 4"
+      "written" : ""
     },
     {
       "id" : 5,
-      "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ndoOlwykGm4me3oEsTw3FqXGWd8Zm6_OOw&usqp=CAU",
+      "imageURL" : "https://dwitaklha.github.io/compte30/maxresdefault.jpg",
       "state" : "free",
-      "title" : "Test title 5",
+      "title" : "hanging leg bisycle",
       "description" : "",
-      "written" : "Test written 5"
+      "written" : ""
     },
     {
       "id" : 6,
-      "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ndoOlwykGm4me3oEsTw3FqXGWd8Zm6_OOw&usqp=CAU",
-      "state" : "free",
-      "title" : "Test title 6",
+      "imageURL" : "https://dwitaklha.github.io/compte30/plank.jpg",
+      "state" : "vip",
+      "title" : "Plank",
       "description" : "",
-      "written" : "Test written 6"
+      "written" : ""
     },
     {
       "id" : 7,
-      "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ndoOlwykGm4me3oEsTw3FqXGWd8Zm6_OOw&usqp=CAU",
+      "imageURL" : "https://dwitaklha.github.io/compte30/maxresdefault.jpg",
       "state" : "vip",
-      "title" : "Test title 7",
+      "title" : "crunches",
       "description" : "",
-      "written" : "Test written 7"
+      "written" : ""
     },
     {
       "id" : 8,
-      "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ndoOlwykGm4me3oEsTw3FqXGWd8Zm6_OOw&usqp=CAU",
+      "imageURL" : "https://dwitaklha.github.io/compte30/maxresdefault.jpg",
       "state" : "vip",
-      "title" : "Test title 8",
+      "title" : "standing dumbbell press",
       "description" : "",
-      "written" : "Test written 8"
+      "written" : ""
+    },
+    {
+      "id" : 9,
+      "imageURL" : "https://dwitaklha.github.io/compte30/maxresdefault.jpg",
+      "state" : "vip",
+      "title" : "triceps dips between two chairs",
+      "description" : "",
+      "written" : ""
+   },
+    {
+      "id" : 10,
+      "imageURL" : "https://dwitaklha.github.io/compte30/maxresdefault.jpg",
+      "state" : "vip",
+      "title" : "squat plank",
+      "description" : "",
+      "written" : ""
     }
   ]
 }
